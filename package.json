@@ -1,7 +1,7 @@
 {
-  "name": "taskunify-zapier",
+  "name": "taskunify",
   "version": "1.0.0",
-  "description": "A Task Unify app for the Zapier platform.",
+  "description": "Task Unify is an internet application and website that allows blog owners, website owners, and Facebook page owners (collectively referred to as the Admin) to run a sweepstakes promotion by customizing and embedding an entry form where they'd like have individuals (the 'Entrants') enter the sweepstakes. Task Unify helps provide the tools that allow the Admin to moderate, verify, and choose a winner for their promotions (collectively referred to as the 'Service').",
   "repository": "zapier/zapier-platform-example-app-oauth2",
   "homepage": "https://zapier.com/",
   "author": "Abiral Neupane <abiral.neupane@gmail.com>",
